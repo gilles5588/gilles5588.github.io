@@ -1,10 +1,13 @@
 # Partitions
 
+Les premières partitions ont été écrites avec Encore sous Windows95. Les plus récentes sont écrites avec MuseScore sur Mac ou Linux.
+Certains fichier MuseScore ont été créés à partir des fichiers Midi exportés de Encore.
+
 ## Johann Joachim Quantz
 
 ### Trio Sonata in C minor
 
-|         |Encore      |PDF|MIDI|MP3|
-|---------|------------|---|----|---|
-|I Andante|[Quantz1c.enc](https://gilles5588.github.io/scores/Quantz/QUANTZ1C.ENC)|[Quantz1c.pdf](https://gilles5588.github.io/scores/Quantz/QUANTZ1C.PDF)|[Quantz1c.mid](https://gilles5588.github.io/scores/Quantz/QUANTZ1C.MID)|[Quantz1c.mp3](https://gilles5588.github.io/scores/Quantz/QUANTZ1.MP3)|
-|II Allegro|[Quantz2.enc](https://gilles5588.github.io/scores/Quantz/QUANTZ2.ENC)|[Quantz2.pdf](https://gilles5588.github.io/scores/Quantz/QUANTZ2.PDF)|[Quantz2.mid](https://gilles5588.github.io/scores/Quantz/QUANTZ2.MID)|[Quantz2.mp3](https://gilles5588.github.io/scores/Quantz/QUANTZ2.MP3)|
+|         |Encore      |MuseScore|PDF|MIDI|MP3|
+|---------|------------|---------|---|----|---|
+|I Andante|[Quantz1c.enc](scores/Quantz/QUANTZ1C.ENC)|[Quantz1c.mscz](scores/Quantz/QUANTZ1C.mscz)|[Quantz1c.pdf](scores/Quantz/QUANTZ1C.PDF)|[Quantz1c.mid](scores/Quantz/QUANTZ1C.MID)|[Quantz1c.mp3](scores/Quantz/QUANTZ1.MP3)|
+|II Allegro|[Quantz2.enc](scores/Quantz/QUANTZ2.ENC)||[Quantz2.pdf](scores/Quantz/QUANTZ2.PDF)|[Quantz2.mid](scores/Quantz/QUANTZ2.MID)|[Quantz2.mp3](scores/Quantz/QUANTZ2.MP3)|
