@@ -1,3 +1,3 @@
 # Photos
 
-* [STENAY](https://gilles5588.github.io/STENAY/STENAY.html "Photos")
+* [STENAY](https://gilles5588.github.io/photos/STENAY/STENAY.html "Photos")
