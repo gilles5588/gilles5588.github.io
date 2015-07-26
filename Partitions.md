@@ -18,3 +18,7 @@ Certains fichiers MuseScore ont été créés à partir des fichiers Midi export
 |   |Encore|MuseScore|PDF|MIDI|MP3|
 |---|------|---------|---|----|---|
 ||[Chaconne.enc](scores/Pachelbel/CHACONNE.ENC)||[Chaconne.pdf](scores/Pachelbel/CHACONNE.PDF)|[Chaconne.mid](scores/Pachelbel/CHACONNE.MID)||
+### Canon
+|   |Encore|MuseScore|PDF|MIDI|MP3|
+|---|------|---------|---|----|---|
+||[Canon2.enc](scores/Pachelbel/CANON2.ENC)|||||
