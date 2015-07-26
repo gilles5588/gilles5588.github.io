@@ -47,6 +47,6 @@ Certains fichiers MuseScore ont été créés à partir des fichiers Midi export
 ### La méditation de Thaïs
 |       |Encore|MuseScore|PDF|MIDI|
 |-------|------|---------|---|----|
-|Acte 2 scène 2|[Thais.enc](Massenet/THAIS.ENC)||[Thais.pdf](Massenet/MASSENET.PDF)|[Thais.mid](Massenet/THAIS.MID)|
+|Acte 2 scène 2|[Thais.enc](Massenet/THAIS.ENC)||[Thais.pdf](Massenet/THAIS.PDF)|[Thais.mid](Massenet/THAIS.MID)|
 
 ![Clavecin](CLAVECIN.JPG)
