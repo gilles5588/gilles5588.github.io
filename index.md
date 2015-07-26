@@ -1,3 +1,5 @@
+<link href="gc.css" rel="stylesheet" type="text/css">
+
 # Gilles Carpentier
 
 Arrangements et orchestrations.
