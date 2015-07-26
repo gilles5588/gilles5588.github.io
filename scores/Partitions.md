@@ -28,7 +28,7 @@ Certains fichiers MuseScore ont été créés à partir des fichiers Midi export
 |---|------|---------|---|----|
 |Suite n°2 - Allegro|[S2a.enc](Haendel/S2A.ENC)||[S2a.pdf](Haendel/S2A.PDF)|[S2a.mid](Haendel/S2A.MID)|
 |Suite n°7 - Passacaille|[S7p.enc](Haendel/S7P.ENC)||[S7p.pdf](Haendel/S7P.PDF)|[S7p.mid](Haendel/S7P.MID)|
-|Suite n°11 - Sarabande|[Suite11s.enc](Haendel/SUITE11S.ENC)||[Suite11s.pdf](Haendel/SUITE11P.PDF)|[Suite11s.mid](Haendel/SUITE11S.MID)|
+|Suite n°11 - Sarabande|[Suite11s.enc](Haendel/SUITE11S.ENC)||[Suite11s.pdf](Haendel/SUITE11S.PDF)|[Suite11s.mid](Haendel/SUITE11S.MID)|
 ### Rinaldo
 |   |Encore|MuseScore|PDF|MIDI|
 |---|------|---------|---|----|
