@@ -4,7 +4,11 @@
 Les premières partitions ont été écrites avec Encore sous Windows95. Les plus récentes sont écrites avec MuseScore sur Mac ou Linux.
 Certains fichiers MuseScore ont été créés à partir des fichiers Midi exportés de Encore.
 
+* [JS Bach](JSBach/JSBach.html "Jean Sébastien Bach")
+* Henri Purcell
+
 ## Johann Joachim Quantz
+
 ### Trio Sonata in C minor
 
 |   |Encore|MuseScore|PDF|MIDI|MP3|
