@@ -9,9 +9,9 @@ Certains fichiers MuseScore ont été créés à partir des fichiers Midi export
 
 |   |Encore|MuseScore|PDF|MIDI|MP3|
 |---|------|---------|---|----|---|
-|I Andante|[Quantz1c.enc](Quantz/QUANTZ1C.ENC)|[Quantz1c.mscz](Quantz/QUANTZ1C.mscz)|[Quantz1c.pdf](Quantz/QUANTZ1C.PDF)|[Quantz1c.mid](Quantz/QUANTZ1C.MID)|[Quantz1c.mp3](Quantz/QUANTZ1.MP3)|
-|II Allegro|[Quantz2.enc](Quantz/QUANTZ2.ENC)||[Quantz2.pdf](Quantz/QUANTZ2.PDF)|[Quantz2.mid](Quantz/QUANTZ2.MID)|[Quantz2.mp3](Quantz/QUANTZ2.MP3)|
-|IV Vivace|[Quantz4.enc](Quantz/QUANTZ4.ENC)||[Quantz4.pdf](Quantz/QUANTZ4.PDF)|[Quantz4.mid](Quantz/QUANTZ4.MID)||
+|I Andante|[Quantz1c.enc](Quantz/QUANTZ1C.ENC)|[Quantz1c.mscz](Quantz/QUANTZ1C.mscz)|[Quantz1c.pdf](Quantz/QUANTZ1C.PDF)|[Quantz1c.mid](Quantz/QUANTZ1C.MID)|[Quantz1c.mp3](Quantz/QUANTZ1.MP3)|
+|II Allegro|[Quantz2.enc](Quantz/QUANTZ2.ENC)||[Quantz2.pdf](Quantz/QUANTZ2.PDF)|[Quantz2.mid](Quantz/QUANTZ2.MID)|[Quantz2.mp3](Quantz/QUANTZ2.MP3)|
+|IV Vivace|[Quantz4.enc](Quantz/QUANTZ4.ENC)||[Quantz4.pdf](Quantz/QUANTZ4.PDF)|[Quantz4.mid](Quantz/QUANTZ4.MID)||
 
 ## Johann Pachelbel
 ### Chaconne
@@ -37,9 +37,16 @@ Certains fichiers MuseScore ont été créés à partir des fichiers Midi export
 ### Rinaldo
 |   |Encore|MuseScore|PDF|MIDI|
 |---|------|---------|---|----|
-|Air d'Argante|[Argante.enc](Haendel/ARGANTE.ENC)||[Argante.pdf](Haendel/ARGANTE.PDF)|[Argante.mid](Haendel/ARGANTE.MID)|
-|Air d'Almirena|[Almirena.enc](Haendel/ALMIRENA.ENC)||[Almirena.pdf](Haendel/ALMIRENA.PDF)|[Almirena.mid](Haendel/ALMIRENA.MID)|
+|Air d'Argante|[Argante.enc](Haendel/ARGANTE.ENC)||[Argante.pdf](Haendel/ARGANTE.PDF)|[Argante.mid](Haendel/ARGANTE.MID)|
+|Air d'Almirena|[Almirena.enc](Haendel/ALMIRENA.ENC)||[Almirena.pdf](Haendel/ALMIRENA.PDF)|[Almirena.mid](Haendel/ALMIRENA.MID)|
 ### Tamerlano
 |   |Encore|MuseScore|PDF|MIDI|
 |---|------|---------|---|----|
-|Air de Bajazete|[Bajazete.enc](Haendel/BAJAZETE.ENC)||[Bajazete.pdf](Haendel/BAJAZETE.PDF)|[Bajazete.mid](Haendel/BAJAZETE.MID)|
+|Air de Bajazete|[Bajazete.enc](Haendel/BAJAZETE.ENC)||[Bajazete.pdf](Haendel/BAJAZETE.PDF)|[Bajazete.mid](Haendel/BAJAZETE.MID)|
+## Jules Massenet
+### La méditation de Thaïs
+|       |Encore|MuseScore|PDF|MIDI|
+|-------|------|---------|---|----|
+|Acte 2 scène 2|[Thais.enc](Massenet/THAIS.ENC)||[Thais.pdf](Massenet/MASSENET.PDF)|[Thais.mid](Massenet/THAIS.MID)|
+
+![Clavecin](CLAVECIN.JPG)
