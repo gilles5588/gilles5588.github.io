@@ -5,6 +5,6 @@ Arrangements et orchestrations.
 En cours de construction.
 
 
-* [partitions](Partitions.html "Partitions")
-* [photos](Photos.html "Photos")
+* [partitions](scores/Partitions.html "Partitions")
+* [photos](photos/Photos.html "Photos")
 
