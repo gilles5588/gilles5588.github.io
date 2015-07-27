@@ -52,5 +52,5 @@ Certains fichiers MuseScore ont été créés à partir des fichiers Midi export
 |       |Encore|MuseScore|PDF|MIDI|
 |-------|------|---------|---|----|
 |Acte 2 scène 2|[Thais.enc](Massenet/THAIS.ENC)||[Thais.pdf](Massenet/THAIS.PDF)|[Thais.mid](Massenet/THAIS.MID)|
+[![Clavecin](TN_CLAVECIN.JPG)](CLAVECIN.JPG)
 
-![Clavecin](CLAVECIN.JPG)
