@@ -26,4 +26,18 @@
 |---|------|---------|---|----|
 |Fugue 1 BWV 846|[F1.enc](F1.ENC)||[F1.pdf](F1.PDF)|[F1.mid](F2.MID)|
 |Fugue 2 BWV 847|[F2.enc](F2.ENC)||[F2.pdf](F2.PDF)|[F2.mid](F2.MID)|
+
+## Chorals
+### Nun komm der Heiden Heiland
+|   |Encore|MuseScore|PDF|MIDI|
+|---|------|---------|---|----|
+|Full score|[C659.enc](C659.ENC)||[C659.pdf](C659.PDF)|[C659.mid](C659.MID)|
+### Wachet auf, ruft uns die Stimme - Choral du veilleur
+|   |Encore|MuseScore|PDF|MIDI|
+|---|------|---------|---|----|
+|Full score|[Wachet.enc](WACHET.ENC)||[Wachet.pdf](WACHET.PDF)|[Wachet.mid](WACHET.MID)|
+|Flute|[Wachetf.enc](WACHETF.ENC)||[Wachetf.pdf](WACHETF.PDF)|[Wachetf.mid](WACHETF.MID)|
+|Hautbois|[Wacheto.enc](WACHETO.ENC)||[Wacheto.pdf](WACHETO.PDF)|[Wacheto.mid](WACHETO.MID)|
+|Clarinette|[Wachetc.enc](WACHETC.ENC)||[Wachetc.pdf](WACHETC.PDF)|[Wachetc.mid](WACHETC.MID)|
+|Ogue|[Wachetp.enc](WACHETP.ENC)||[Wachetp.pdf](WACHETP.PDF)|[Wachetp.mid](WACHETP.MID)|
 [![Orgue](TN_ORGUE.JPG)](ORGUE.JPG)
