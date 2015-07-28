@@ -40,4 +40,33 @@
 |Hautbois|[Wacheto.enc](WACHETO.ENC)||[Wacheto.pdf](WACHETO.PDF)|[Wacheto.mid](WACHETO.MID)|
 |Clarinette|[Wachetc.enc](WACHETC.ENC)||[Wachetc.pdf](WACHETC.PDF)|[Wachetc.mid](WACHETC.MID)|
 |Ogue|[Wachetp.enc](WACHETP.ENC)||[Wachetp.pdf](WACHETP.PDF)|[Wachetp.mid](WACHETP.MID)|
+## Suites
+### Suite BWV 1067
+|Rondeau|Encore|MuseScore|PDF|MIDI|
+|-------|------|---------|---|----|
+|Full score|[S1067r.enc](S1067R.ENC)||[S1067r.pdf](S1067R.PDF)|[S1067r.mid](S1067R.MID)|
+|Flute|[S1067rf.enc](S1067RF.ENC)||[S1067rf.pdf](S1067RF.PDF)|[S1067rf.mid](S1067RF.MID)|
+|Recorder|[S1067rr.enc](S1067RR.ENC)||[S1067rr.pdf](S1067RR.PDF)|[S1067rr.mid](S1067RR.MID)|
+|Hautbois|[S1067rh.enc](S1067RH.ENC)||[S1067rh.pdf](S1067RH.PDF)|[S1067rh.mid](S1067RH.MID)|
+|Clarinette|[S1067rc.enc](S1067RC.ENC)||[S1067rc.pdf](S1067RC.PDF)|[S1067rc.mid](S1067RC.MID)|
+|Clavecin|[S1067rp.enc](S1067RP.ENC)||[S1067rp.pdf](S1067RP.PDF)|[S1067rp.mid](S1067RP.MID)|
+
+
+|Polonaise|Encore|MuseScore|PDF|MIDI|
+|---|-----|---------|---|----|
+|Full score|[S1067p.enc](S1067P.ENC)||[S1067p.pdf](S1067P.PDF)|[S1067p.mid](S1067P.MID)|
+|Flute|[S1067pf.enc](S1067PF.ENC)||[S1067pf.pdf](S1067PF.PDF)|[S1067pf.mid](S1067PF.MID)|
+|Recorder|[S1067pr.enc](S1067PR.ENC)||[S1067pr.pdf](S1067PR.PDF)|[S1067pr.mid](S1067PR.MID)|
+|Hautbois|[S1067ph.enc](S1067PH.ENC)||[S1067ph.pdf](S1067PH.PDF)|[S1067ph.mid](S1067PH.MID)|
+|Clarinette|[S1067pc.enc](S1067PC.ENC)||[S1067pc.pdf](S1067PC.PDF)|[S1067pc.mid](S1067PC.MID)|
+|Clavecin|[S1067pp.enc](S1067PP.ENC)||[S1067pp.pdf](S1067PP.PDF)|[S1067pp.mid](S1067PP.MID)|
+
+|Bourrée I|Encore|MuseScore|PDF|MIDI|
+|---|-----|---------|---|----|
+|Full score|[S1067b1.enc](S1067B1.ENC)||[S1067b1.pdf](S1067B1.PDF)|[S1067b1.mid](S1067B1.MID)|
+|Flute|[S1067b1f.enc](S1067B1F.ENC)||[S1067B1f.pdf](S1067B1F.PDF)|[S1067b1f.mid](S1067B1F.MID)|
+|Recorder|[S1067b1r.enc](S1067B1R.ENC)||[S1067b1r.pdf](S1067B1R.PDF)|[S1067b1r.mid](S1067B1R.MID)|
+|Hautbois|[S1067b1h.enc](S1067B1H.ENC)||[S1067b1h.pdf](S1067B1H.PDF)|[S1067b1h.mid](S1067B1H.MID)|
+|Clarinette|[S1067b1c.enc](S1067B1C.ENC)||[S1067b1c.pdf](S1067B1C.PDF)|[S1067b1c.mid](S1067B1C.MID)|
+|Clavecin|[S1067b1p.enc](S1067B1P.ENC)||[S1067b1p.pdf](S1067B1P.PDF)|[S1067b1p.mid](S1067B1P.MID)|
 [![Orgue](TN_ORGUE.JPG)](ORGUE.JPG)
