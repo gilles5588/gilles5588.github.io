@@ -6,8 +6,9 @@ Les premières partitions ont été écrites avec Encore sous Windows95. Les plu
 [![Clavecin](TN_CLAVECIN.JPG)](CLAVECIN.JPG)
 
 * [JS Bach](JSBach/JSBach.html "Jean Sébastien Bach")
-* Henri Purcell
-
+* [GF Haendel](Haendel/Haendel.html "Haendel")
+* [Henri Purcell](Purcell/Purcell.html "Purcell")
+ 
 ## Johann Joachim Quantz
 
 ### Trio Sonata in C minor
@@ -30,26 +31,6 @@ Les fichiers MP3 ont été enregistrés à partir du fichier MIDI joué sur un E
 |------|
 |[Canon2.enc](Pachelbel/CANON2.ENC)|
 
-## Georg Friedrich Haendel
-### Suites pour clavier
-|   |Encore|MuseScore|PDF|MIDI|
-|---|------|---------|---|----|
-|Suite n°2 - Allegro|[S2a.enc](Haendel/S2A.ENC)||[S2a.pdf](Haendel/S2A.PDF)|[S2a.mid](Haendel/S2A.MID)|
-|Suite n°7 - Passacaille|[S7p.enc](Haendel/S7P.ENC)||[S7p.pdf](Haendel/S7P.PDF)|[S7p.mid](Haendel/S7P.MID)|
-|Suite n°11 - Sarabande|[Suite11s.enc](Haendel/SUITE11S.ENC)||[Suite11s.pdf](Haendel/SUITE11S.PDF)|[Suite11s.mid](Haendel/SUITE11S.MID)|
-### Fughetta
-|Encore|MuseScore|PDF|MIDI|
-|------|---------|---|----|
-|[Fughetta.enc](Haendel/FUGHETTA.ENC)||[Fughetta.pdf](Haendel/FUGHETTA.PDF)|[Fughetta.mid](Haendel/FUGHETTA.MID)|
-### Rinaldo
-|   |Encore|MuseScore|PDF|MIDI|
-|---|------|---------|---|----|
-|Air d'Argante|[Argante.enc](Haendel/ARGANTE.ENC)||[Argante.pdf](Haendel/ARGANTE.PDF)|[Argante.mid](Haendel/ARGANTE.MID)|
-|Air d'Almirena|[Almirena.enc](Haendel/ALMIRENA.ENC)||[Almirena.pdf](Haendel/ALMIRENA.PDF)|[Almirena.mid](Haendel/ALMIRENA.MID)|
-### Tamerlano
-|   |Encore|MuseScore|PDF|MIDI|
-|---|------|---------|---|----|
-|Air de Bajazete|[Bajazete.enc](Haendel/BAJAZETE.ENC)||[Bajazete.pdf](Haendel/BAJAZETE.PDF)|[Bajazete.mid](Haendel/BAJAZETE.MID)|
 ## Jules Massenet
 ### La méditation de Thaïs
 |       |Encore|MuseScore|PDF|MIDI|
