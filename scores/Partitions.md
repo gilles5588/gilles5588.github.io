@@ -8,6 +8,7 @@ Les premières partitions ont été écrites avec Encore sous Windows95. Les plu
 * [JS Bach](JSBach/JSBach.html "Jean Sébastien Bach")
 * [GF Haendel](Haendel/Haendel.html "Haendel")
 * [Henri Purcell](Purcell/Purcell.html "Purcell")
+* [Robert Schumann](Schumann/Schumann.html "Schumann")
  
 ## Johann Joachim Quantz
 
