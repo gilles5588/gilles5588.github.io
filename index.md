@@ -9,4 +9,4 @@ En cours de construction.
 
 * [partitions](scores/Partitions.html "Partitions")
 * [photos](photos/Photos.html "Photos")
-
+* [publications](publications/Publications.html "Publications")

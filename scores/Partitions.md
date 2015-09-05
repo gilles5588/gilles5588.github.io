@@ -18,7 +18,7 @@ Les fichiers MP3 ont été enregistrés à partir du fichier MIDI joué sur un E
 
 |   |Encore|MuseScore|PDF|MIDI|MP3|
 |---|------|---------|---|----|---|
-|I Andante|[Quantz1c.enc](Quantz/QUANTZ1C.ENC)|[Quantz1c.mscz](Quantz/QUANTZ1C.mscz)|[Quantz1c.pdf](Quantz/QUANTZ1C.PDF)|[Quantz1c.mid](Quantz/QUANTZ1C.MID)|[Quantz1c.mp3](Quantz/QUANTZ1.MP3)|
+|I Andante|[Quantz1.enc](Quantz/QUANTZ1.ENC)|[Quantz1.mscz](Quantz/QUANTZ1.mscz)|[Quantz1.pdf](Quantz/QUANTZ1.PDF)|[Quantz1.mid](Quantz/QUANTZ1.MID)|[Quantz1.mp3](Quantz/QUANTZ1.MP3)|
 |II Allegro|[Quantz2.enc](Quantz/QUANTZ2.ENC)|[Quantz2.mscz](Quantz/QUANTZ2.mscz)|[Quantz2.pdf](Quantz/QUANTZ2.PDF)|[Quantz2.mid](Quantz/QUANTZ2.MID)|[Quantz2.mp3](Quantz/QUANTZ2.MP3)|
 |IV Vivace|[Quantz4.enc](Quantz/QUANTZ4.ENC)|[Quantz4.mscz](Quantz/QUANTZ4.mscz)|[Quantz4.pdf](Quantz/QUANTZ4.PDF)|[Quantz4.mid](Quantz/QUANTZ4.MID)||
 
