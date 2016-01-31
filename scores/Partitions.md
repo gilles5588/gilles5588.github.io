@@ -28,10 +28,9 @@ Les fichiers MP3 ont été enregistrés à partir du fichier MIDI joué sur un E
 |------|---------|---|----|
 |[Chaconne.enc](Pachelbel/CHACONNE.ENC)||[Chaconne.pdf](Pachelbel/CHACONNE.PDF)|[Chaconne.mid](Pachelbel/CHACONNE.MID)|
 ### Canon
-|Encore|
-|------|
-|[Canon2.enc](Pachelbel/CANON2.ENC)|
-
+|Encore|MuseScore|PDF|MIDI|
+|------|---------|---|----|
+|[Canon2.enc](Pachelbel/CANON2.ENC)|[Canon2.mscz](Pachelbel/CANON2.mscz)|[Canon2.pdf](Pachelbel/CANON2-Conducteur_et_parties.pdf)|[Canon2.mid](Pachelbel/CANON2.mid)|
 ## Jules Massenet
 ### La méditation de Thaïs
 |       |Encore|MuseScore|PDF|MIDI|
