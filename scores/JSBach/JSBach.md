@@ -25,7 +25,7 @@
 |   |Encore|MuseScore|PDF|MIDI|
 |---|------|---------|---|----|
 |Fugue 1 BWV 846|[F1.enc](F1.ENC)||[F1.pdf](F1.PDF)|[F1.mid](F2.MID)|
-|Fugue 2 BWV 847|[F2.enc](F2.ENC)||[F2.pdf](F2.PDF)|[F2.mid](F2.MID)|
+|Fugue 2 BWV 847|[F2.enc](F2.ENC)|[F2.mscz](F2.mscz)|[F2.pdf](F2.PDF)|[F2.mid](F2.MID)|
 
 ## Chorals
 ### Nun komm der Heiden Heiland
