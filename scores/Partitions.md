@@ -20,7 +20,7 @@ Les fichiers MP3 ont été enregistrés à partir du fichier MIDI joué sur un E
 |---|------|---------|---|----|---|
 |I Andante|[Quantz1.enc](Quantz/QUANTZ1.ENC)|[Quantz1.mscz](Quantz/QUANTZ1.mscz)|[Quantz1.pdf](Quantz/QUANTZ1.PDF)|[Quantz1.mid](Quantz/QUANTZ1.MID)|[Quantz1.mp3](Quantz/QUANTZ1.MP3)|
 |II Allegro|[Quantz2.enc](Quantz/QUANTZ2.ENC)|[Quantz2.mscz](Quantz/QUANTZ2.mscz)|[Quantz2.pdf](Quantz/QUANTZ2.PDF)|[Quantz2.mid](Quantz/QUANTZ2.MID)|[Quantz2.mp3](Quantz/QUANTZ2.MP3)|
-|III Larghetto||[Quantz3.mscz](Quantz/QUANTZ3.mscz)|[Quantz3.pdf](Quantz/QUANTZ3.PDF)|[Quantz3.mid](Quantz/QUANTZ3.MID)|[Quantz3.mp3](Quantz/QUANTZ3.MP3)|
+|III Larghetto||[Quantz3.mscz](Quantz/QUANTZ3.mscz)|[Quantz3.pdf](Quantz/QUANTZ3.pdf)|[Quantz3.mid](Quantz/QUANTZ3.mid)|[Quantz3.mp3](Quantz/QUANTZ3.mp3)|
 |IV Vivace|[Quantz4.enc](Quantz/QUANTZ4.ENC)|[Quantz4.mscz](Quantz/QUANTZ4.mscz)|[Quantz4.pdf](Quantz/QUANTZ4.PDF)|[Quantz4.mid](Quantz/QUANTZ4.MID)||
 
 ## Johann Pachelbel
